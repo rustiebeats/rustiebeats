@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rustiebeats">
+
