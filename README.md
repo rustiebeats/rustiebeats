@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 * skdltm08@gmail.com
 * [오픈채팅](https://open.kakao.com/o/ssWPjfQb)
-* [인스타그램](instagram.com/metafibonacci)
+* [인스타그램](https://instagram.com/metafibonacci)
 
