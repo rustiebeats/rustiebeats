@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 
 ## Skill:
 
+없음
