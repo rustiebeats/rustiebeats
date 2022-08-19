@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 * (2019) 성균관대학교 공학계열 입학
 * (2020) 성균관대학교 기계공학부 진입
-* (2020.05 ~ 2021.11) KATUSA 복무
 * (2022) 성균관대학교 알고리즘 동아리 NPC
 
 ## Awards: 
@@ -32,8 +31,6 @@ Here are some ideas to get you started:
 ## Reach me: 
 
 * skdltm08@gmail.com
-* [Kakao](https://open.kakao.com/o/ssWPjfQb)
-* [Instagram](https://instagram.com/metafibonacci)
 
 ## Skill:
 
