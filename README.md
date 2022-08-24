@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rustiebeats">
 <br>
 
-## Profile: 
+<!--## Profile: 
 
 * (2019) 성균관대학교 공학계열 입학
 * (2020) 성균관대학교 기계공학부 진입
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 * skdltm08@gmail.com
 
-## Skill:
+## Skill: -->
 
