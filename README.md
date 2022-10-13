@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rustiebeats">
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=rustiebeats&theme=warm"/>
 <br>
 
 <!--## Profile: 
