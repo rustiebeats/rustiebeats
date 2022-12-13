@@ -63,4 +63,4 @@ Profile:
 
 * skdltm08@gmail.com
 * ch512hj@g.skku.edu
-
+* https://open.kakao.com/me/rustie
