@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 * (2022~) 성균관대학교 알고리즘 동아리 NPC
 
 ## Career
-♬ Mnet 〈PRODUCE 101〉 National Producer (2016)
-♬ Mnet 〈Idol School〉 Nurture Member (2017)
-♬ Mnet 〈PRODUCE 48〉 National Producer (2018)
-♬ MBC 〈My Teenage Girls〉 Voter (2021)
+♬ Mnet 〈PRODUCE 101〉 National Producer (2016)<br>
+♬ Mnet 〈Idol School〉 Nurture Member (2017)<br>
+♬ Mnet 〈PRODUCE 48〉 National Producer (2018)<br>
+♬ MBC 〈My Teenage Girls〉 Voter (2021)<br>
 ♬ kakaopage 〈GIRL'S RE:VERSE〉 LO:VERSE (2023)
 
 ♬ Bedroom Critic
