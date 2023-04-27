@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 ♬ MBC 〈My Teenage Girls〉 Voter (2021)<br>
 ♬ kakaopage 〈GIRL'S RE:VERSE〉 LO:VERSE (2023)
 
-♬ Bedroom Critic
 
 ## Awards: 
 
