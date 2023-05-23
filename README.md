@@ -54,13 +54,6 @@ Here are some ideas to get you started:
 * (2019) 성균관대학교 공학계열 입학 (이후 기계공학부 진입)
 * (2022~) 성균관대학교 알고리즘 동아리 NPC
 
-## Career
-♬ Mnet 〈PRODUCE 101〉 National Producer (2016)<br>
-♬ Mnet 〈Idol School〉 Nurture Member (2017)<br>
-♬ Mnet 〈PRODUCE 48〉 National Producer (2018)<br>
-♬ MBC 〈My Teenage Girls〉 Voter (2021)<br>
-♬ kakaopage 〈GIRL'S RE:VERSE〉 LO:VERSE (2023)
-
 
 ## Awards: 
 
@@ -70,6 +63,8 @@ Here are some ideas to get you started:
 
 ## Reach me: 
 
+* https://blog.naver.com/sanholo_/223102780015
+* https://rustiebeats.tistory.com/
 * skdltm08@gmail.com
 * ch512hj@g.skku.edu
 * https://open.kakao.com/me/rustie
