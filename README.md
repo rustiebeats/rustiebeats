@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 ## Profile: 
 
-* (2019) 성균관대학교 공학계열 입학
-* (2022~) 성균관대학교 알고리즘 동아리 NPC
-* (2025~) SW Engineer @ 
+* (2019 ~ 2024) 성균관대학교 기계공학부
+* (2022 ~) 성균관대학교 알고리즘 동아리 NPC
+* (2025 ~) SW Engineer @ Hyundai Mobis
 
 ## Awards: 
 
@@ -65,6 +65,5 @@ Here are some ideas to get you started:
 
 * https://blog.naver.com/sanholo_/223102780015
 * https://rustiebeats.tistory.com/
-* skdltm08@gmail.com
 * ch512hj@g.skku.edu
 * https://open.kakao.com/me/rustie
