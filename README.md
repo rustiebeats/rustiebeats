@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 ## Profile: 
 
-* (2019 ~ 2024) 성균관대학교 기계공학부
-* (2022 ~) 성균관대학교 알고리즘 동아리 NPC
+* (2019 ~ 2024) Sungkyunkwan University / Mechanical Engineering
+* (2022 ~) Sungkyunkwan University / Computer Algorithms & Problem Solving Club NPC
 * (2025 ~) SW Engineer @ Hyundai Mobis
 
 ## Awards: 
