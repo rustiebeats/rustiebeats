@@ -55,15 +55,9 @@ Here are some ideas to get you started:
 * (2022 ~) Sungkyunkwan University / Computer Algorithms & Problem Solving Club NPC
 * (2025 ~) SW Engineer @ Hyundai Mobis
 
-## Awards: 
-
-* 2022 성균관대학교 프로그래밍 경진대회 / 10위
-* 2023 성균관대학교 프로그래밍 경진대회 / 15위
-* 2022 경인지역 6개대학 연합 프로그래밍 경시대회 shake! / 성균관대학교 대표 출전 / 11위
 
 ## Reach me: 
 
 * https://blog.naver.com/sanholo_/223102780015
 * https://rustiebeats.tistory.com/
 * ch512hj@g.skku.edu
-* https://open.kakao.com/me/rustie
